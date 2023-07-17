@@ -1,4 +1,4 @@
-# docs
+# Docs
 Pass URL Parameters to Destination URL
 You can now pass URL query parameters (utm_source, ref, etc.) from your short link to its destination URL.
 
